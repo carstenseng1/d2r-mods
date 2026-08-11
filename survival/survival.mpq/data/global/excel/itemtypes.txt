@@ -7,7 +7,7 @@ Gold	gold	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0								0
 Bow Quiver	bowq	misl	seco	0	1	rarm	larm		bow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0	ammo			
 Crossbow Quiver	xboq	misl	seco	0	1	rarm	larm		xbow	0	1	0	1			1	0	0	25	0	40	0	0	3			0							misc	0	ammo			
 Player Body Part	play	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0				
-Herb	herb			0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0				
+Herb	herb	poti		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0				
 Potion	poti	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0	potis			
 Ring	ring	misc		0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0	rings			
 Elixir	elix	misc		0	0					0	0	0	0			0	1	0	25	0	40	0	0	3			0							misc	0				
@@ -20,7 +20,7 @@ Not Used				0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Book	book	misc		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0	scrlt			
 Belt	belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	0	25	0	40	0	0	3			0							armo	0	belts	r_arm		
 Gem	gem	sock		0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0	gems			
-Torch	torc	misc		0	1	larm				0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0				
+Torch	torc	char		0	1					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0				
 Scroll	scro	misc		0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0				
 Not Used				0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0				
 Scepter	scep	rod		1	1	rarm	larm			0	0	0	0		1	0	0	3	25	5	40	6	0	1	pal		0							weap	0	scept	r_mel		
