@@ -9,9 +9,9 @@ Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	2																0
 Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	2																0
 Perfect Gem			1						gpv	3	gpy	3	gpb	3	gpg	3	gpr	3	gpw	3	skz	2																0
 Ammo			1						aqv	1	cqv	1																										0
-Misc 0			1						key	5	tsc	1	isc	2	opl	5	gpl	5	tch	0	hrb	2																0
-Misc 1			1						key	5	tsc	1	isc	2	opm	5	gpm	5	tch	0	hrb	2																0
-Misc 2			1						key	5	tsc	1	isc	2	ops	5	gps	5	tch	0	hrb	2																0
+Misc 0			1						key	5	tsc	1	isc	2	opl	5	gpl	5	tc0	5	Herb	5																0
+Misc 1			1						key	5	tsc	1	isc	2	opm	5	gpm	5	tc0	5	Herb	5																0
+Misc 2			1						key	5	tsc	1	isc	2	ops	5	gps	5	tc0	5	Herb	5																0
 Hpotion 1			1						hp1	8	hp2	3	mp1	3	mp2	2	rvs	1																				0
 Hpotion 2			1						hp1	1	hp2	4	hp3	3	mp2	2	mp3	2	rvs	1																		0
 Hpotion 3			1						hp2	1	hp3	4	hp4	3	mp3	2	mp4	2	rvs	1																		0
@@ -19,11 +19,11 @@ Hpotion 4			1						hp3	1	hp4	4	hp5	3	mp4	2	mp5	2	rvs	1																		0
 Hpotion 5			1						hp3	1	hp4	4	hp5	4	mp5	4	rvs	1																				0
 Hpotion 6			1						hp4	4	hp5	6	mp4	2	mp5	4	rvs	1																				0
 Potion 1			1						hp1	12	hp2	4	mp1	5	mp2	4	rvs	1	vps	4																		0
-Potion 2			1						hp1	4	hp2	8	hp3	5	mp2	2	mp3	5	rvs	1	vps	2	yps	3	wms	1												0
-Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1												0
-Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1												0
-Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1														0
-Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1														0
+Potion 2			1						hp1	4	hp2	8	hp3	5	mp2	2	mp3	5	rvs	1	vps	2	yps	3	Potion Resist	1												0
+Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	Potion Resist	1												0
+Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	Potion Resist	1												0
+Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	Potion Resist	1														0
+Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	Potion Resist	1														0
 Runes 1			1						r01	3	r02	2																										0
 Runes 2			1						r03	3	r04	2	Runes 1	2																								0
 Runes 3			1						r05	3	r06	2	Runes 2	5																								0
@@ -1344,6 +1344,8 @@ Act 4 (H) Herald C	41	87	-6	800	800	850	1024	0	Act 4 (H) Herald Item K	2	Act 4 (
 Act 5 (H) Herald A	41	90	-6	800	800	850	1024	0	Act 5 (H) Herald Item L	2	Act 5 (H) Herald Item L - 1 Extra	1	Act 5 (H) Herald Item L - 2 Extra	1	Act 5 (H) Cpot A	2																						0
 Act 5 (H) Herald B	41	93	-6	800	800	850	1024	0	Act 5 (H) Herald Item M	2	Act 5 (H) Herald Item M - 1 Extra	1	Act 5 (H) Herald Item M - 2 Extra	1	Act 5 (H) Cpot B	2																						0
 Act 5 (H) Herald C	41	96	-6	800	800	850	1024	0	Act 5 (H) Herald Item N	2	Act 5 (H) Herald Item N - 1 Extra	1	Act 5 (H) Herald Item N - 2 Extra	1	Act 5 (H) Cpot C	2																						0
-MOD																																						
-Creature			1					1	gld	0																												0
+MOD																																						0
 Mod Test			1					1	gld	0																												0
+Herb			1						hrb	1	hb1	1	hb2	1																								0
+Potion Resist			1						wms	2	rp1	1	rp2	1																								0
+Creature			1					99	gld	0	Herb	1																										0

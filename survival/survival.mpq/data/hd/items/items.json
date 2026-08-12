@@ -691,6 +691,7 @@
   { "um6": { "asset": "body_part/fragment_poison" } },
   { "cjw": { "asset": "gem/perfect_diamond" } },
   { "cs2": { "asset": "charm/charm_large" } },
+  { "tc0": { "asset": "torch/torch" } },
   { "rp1": { "asset": "potion/thawing_potion" } },
   { "rp2": { "asset": "potion/thawing_potion" } },
   { "hb1": { "asset": "herb/herb" } },

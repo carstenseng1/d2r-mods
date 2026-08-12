@@ -230,6 +230,7 @@ bind_demon_underling	227																												1	1				1																	19	
 herald	228																																										herald																															0
 apocalypse	229																																																																									0
 missilelimit	230																																																																									0
-potion_resistfire	231					1									1																												aura_resistfire					cast_resistfire														paladin_aura_resistfire												0
-potion_resistcold	232					1											1																										aura_resistcold					cast_resistcold														paladin_aura_resistcold												0
-potion_resistlight	233					1										1																											aura_resistlight					cast_resistlight														paladin_aura_resistlightning												0
+torch	231																																																																									0
+potion_resistfire	232					1									1																												aura_resistfire					cast_resistfire														paladin_aura_resistfire												0
+potion_resistcold	233					1											1																										aura_resistcold					cast_resistcold														paladin_aura_resistcold												0
+potion_resistlight	234					1										1																											aura_resistlight					cast_resistlight														paladin_aura_resistlightning												0
