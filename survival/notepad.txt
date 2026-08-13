@@ -1,1 +1,6 @@
+Conditional based on > 50% stamina
 (stat('stamina'.accr) > stat('maxstamina'.accr) * 0.5) ? 100 : 0
+
+Bash : calc1 with stamina scaling
+(ln12+skill('Stun'.blvl)*par8)*((stat('stamina'.accr)*100)/stat('maxstamina'.accr))/100
+
