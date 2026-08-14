@@ -178,7 +178,7 @@ fullsetgeneric	175																																						1				aura_fanatic							
 monsterset	176	3			1						1																												1									fire_cast_2																1	135									0
 delerium	177	3			1					1	1																																					teleport	teleport															1	212									0
 antidote	178																		1																								cleansingfront	cleansingback				cast_resistall														paladin_aura_cleansing												0
-thawing	179					1											1																										aura_resistcold					cast_resistcold		coldresist												paladin_aura_resistcold												0
+thawing	179					1											1																										aura_resistcold					cast_resistcold														paladin_aura_resistcold												0
 staminapot	180																	1																																																								0
 passive_resistfire	181																																																																									0
 passive_resistcold	182																																																																									0
@@ -233,5 +233,4 @@ missilelimit	230																																																																
 mod_passive	231																																																																									0
 torch	232																																																																									0
 potion_resistfire	233					1									1																												aura_resistfire					cast_resistfire														paladin_aura_resistfire												0
-potion_resistcold	234					1											1																										aura_resistcold					cast_resistcold														paladin_aura_resistcold												0
-potion_resistlight	235					1										1																											aura_resistlight					cast_resistlight														paladin_aura_resistlightning												0
+potion_resistlight	234					1										1																											aura_resistlight					cast_resistlight														paladin_aura_resistlightning												0

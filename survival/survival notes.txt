@@ -1,0 +1,99 @@
+Conditional based on > 50% stamina
+(stat('stamina'.accr) > stat('maxstamina'.accr) * 0.5) ? 100 : 0
+
+Bash : calc1 with stamina scaling
+(ln12+skill('Stun'.blvl)*par8)*((stat('stamina'.accr)*100)/stat('maxstamina'.accr))/100
+
+===========
+CHANGE LIST
+===========
+
+=========
+armor.txt
+==========
+- speed reduction impact increased for all armors and added to medium and heave boots.
+
+=============
+charstats.txt
+=============
+- stamina per lvl and stamina per vitality reduced
+- light radius reduced
+
+=============
+itemtypes.txt
+=============
+- Herb: Equive1 misc >> -none-
+- Herb: Beltable 1 >> 0
+
+========
+misc.txt
+========
+- Stamina Potion: cost 25 >> 30
+- Stamina, Antidote, Thawing Potions: len 750 >> 1500 (1 minute)
+- Stamina, Antidote, Rejuventation Potions: store counts changed (not perm)
+- Identify & Town Portal Scroll/Tome: cost increased ; store counts reduced 
+- Arrows: stack fields reduced
+- Bolts: stack fields reduced
+- Herb: level >> 0 ; spawnable 0 >> 1 ; rarity 3 >> 1 ; cost 75 >> 10 ; belt 1 >> 0 ; state & stats changed ; vendors added
+- NEW:
+  - Torch Useable
+  - Extinguishing Potion
+  - Grounding Potion
+  - Healing Herb
+  - Mana Herb
+
+============
+monstats.txt
+============
+- "Creature" Treasure Class set on many enemy types to reduce loot drops
+
+=======
+npc.txt
+=======
+- rep mult 128 >> 512 (Increase repair costs)
+
+=============
+skilldesc.txt
+=============
+- Added "mod passive" skill description placeholder
+
+==========
+skills.txt
+==========
+- Edited skill calculations to modify effects based on current % stamina
+  - Bash
+- NEW
+  - Mod Passive: Placeholder passive skill for testing
+
+==========
+states.txt
+==========
+- antidote & thawing: Added overlays
+- NEW
+  - mod_passive
+  - torch
+  - potion_resistfire
+  - potion_resistlight
+
+===================
+treasureclassex.txt
+===================
+- Creature type enemies now use "Creature" treasure class
+- Misc (0-2): reduced scrolls & gold drops ; added herbs
+- Act X Junk: reduced potion drops
+- Act X Chest X: reduced "no drop" values to increase drops from chests
+- All basic enemies: increased "no drop" to reduce drops from enemies ; no gold drops ; reduced good drops
+- Basic H2H (Melee) enemies: changed from general equipment to melee weapon drops
+- Missile enemies: more likely to drop bows/xbows and ammo
+- NEW
+  - Mod Test
+  - Herb
+  - Potion Resist
+  - Creature
+
+===========
+weapons.txt
+===========
+- Reduced throwing weapon stacks and increased thrown weapon damage (minmisdam/maxmisdam) to offset
+
+
