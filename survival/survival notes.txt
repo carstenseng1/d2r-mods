@@ -4,6 +4,18 @@ Conditional based on > 50% stamina
 Bash : calc1 with stamina scaling
 (ln12+skill('Stun'.blvl)*par8)*((stat('stamina'.accr)*100)/stat('maxstamina'.accr))/100
 
+Attack: ToHitCalc
+Stamina %: (stat('stamina'.accr)*100)/stat('maxstamina'.accr)
+Attack Rating Base: stat('tohit'.base)
+Attack Rating w/ item modifiers: stat('tohit'.accr)
+Attack Rating Base Modified by % Stamina:
+%25 flat reduction, %25 increase based on stamina: Normal AR at full stamina and -25% AR at 0 stamina
+((stat('tohit'.base))*((stat('stamina'.accr)*100)/stat('maxstamina'.accr)))/400-(stat('tohit'.base)/4)
+
+Stamina Deplete Aura:
+(stat('stamina'.accr) > 0) ? -100 : 0
+-min(stat('stamina'.accr),100)
+
 ===========
 CHANGE LIST
 ===========
