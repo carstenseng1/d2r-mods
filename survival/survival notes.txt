@@ -1,5 +1,20 @@
-Conditional based on > 50% stamina
-(stat('stamina'.accr) > stat('maxstamina'.accr) * 0.5) ? 100 : 0
+% Stamina
+(stat('stamina'.accr)*100)/stat('maxstamina'.accr)
+
+Conditional -y% when stamina < x%
+((stat('stamina'.accr)*100)/stat('maxstamina'.accr) < x) ? -y : 0
+
+Factor x scaled by % stamina
+(((stat('stamina'.accr)*100)/stat('maxstamina'.accr))*x)/100
+
+Reduction from 0 to -x depending on % stamina
+(((stat('stamina'.accr)*100)/stat('maxstamina'.accr))*x)/100-x
+
+Flat increase parX reduced by parY depending on % stamina
+parX+(((stat('stamina'.accr)*100)/stat('maxstamina'.accr))*parY)/100-parY
+
+Linear base value parameter X plus parameter Y per skill level reduced by parameter Z depending on % stamina
+lnXY+(((stat('stamina'.accr)*100)/stat('maxstamina'.accr))*parZ)/100-parZ
 
 Bash : calc1 with stamina scaling
 (ln12+skill('Stun'.blvl)*par8)*((stat('stamina'.accr)*100)/stat('maxstamina'.accr))/100
