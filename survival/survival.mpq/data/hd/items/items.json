@@ -695,5 +695,7 @@
   { "rp1": { "asset": "potion/thawing_potion" } },
   { "rp2": { "asset": "potion/thawing_potion" } },
   { "hb1": { "asset": "herb/herb" } },
-  { "hb2": { "asset": "herb/herb" } }
+  { "hb2": { "asset": "herb/herb" } },
+  { "hb3": { "asset": "herb/herb" } },
+  { "hb4": { "asset": "herb/herb" } }
 ]

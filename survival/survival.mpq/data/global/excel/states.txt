@@ -235,3 +235,7 @@ mod_stamina_drain	232																																										staminafront	stam
 torch	233																																																																									0
 potion_resistfire	234					1									1																												aura_resistfire					cast_resistfire														paladin_aura_resistfire												0
 potion_resistlight	235					1										1																											aura_resistlight					cast_resistlight														paladin_aura_resistlightning												0
+herb_armor	236													1																																				armorclass																								0
+herb_tohit	237											1																																						tohit																								0
+herb_damage	238												1																																					damagepercent																								0
+herb_speed	239																																																	velocitypercent																								0
