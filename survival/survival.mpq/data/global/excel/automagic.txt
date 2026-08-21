@@ -43,15 +43,39 @@ of Ember	100	1	1	1		3				3	306	fire-min		3	3	fire-max		8	8			3	5		armo	weap					
 of Cinders	100	1	1	15		11				2	306	fire-min		5	5	fire-max		16	16			6	10		armo	weap											0	0
 of Flames	100	1	1	25		18				2	306	fire-min		8	8	fire-max		18	18			11	20		armo	weap											0	0
 of Inferno	100	1		33		25				2	306	fire-min		16	16	fire-max		32	32			21	30		armo	weap											0	0
-Mod Cloth Armor	100	1		1		1				100	307	mod-red-dmg%		0	10										armo												0	0
-Mod Light Armor	100	1		1		1				100	308	mod-red-dmg%		5	15										armo												0	0
-Mod Medium Armor	100	1		1		1				100	309	mod-red-dmg%		10	20										armo												0	0
-Mod Heavy Armor	100	1		1		1				100	310	mod-red-dmg%		15	25										armo												0	0
-Mod Cloth Helm	100	1		1		1				100	311	mod-red-dmg%		0	5										armo												0	0
-Mod Light Helm	100	1		1		1				100	312	mod-red-dmg%		5	10										armo												0	0
-Mod Medium Helm	100	1		1		1				100	313	mod-red-dmg%		10	15										armo												0	0
-Mod Heavy Helm	100	1		1		1				100	314	mod-red-dmg%		15	20										armo												0	0
-Mod Cloth Boots Gloves	100	1		1		1				100	315	mod-red-dmg%		0	2										armo												0	0
-Mod Light Boots Gloves	100	1		1		1				100	316	mod-red-dmg%		1	4										armo												0	0
-Mod Medium Boots Gloves	100	1		1		1				100	317	mod-red-dmg%		2	6										armo												0	0
-Mod Heavy Boots Gloves	100	1		1		1				100	318	mod-red-dmg%		3	8										armo												0	0
+Mod Cloth Helm	100	1		1		1				100	307														armo												0	0
+Mod Light Helm	100	1		1		1				100	308	red-dmg		1	1	red-mag		1	1						armo												0	0
+Mod Medium Helm	100	1		1		1				100	309	red-dmg		1	2	red-mag		1	1						armo												0	0
+Mod Heavy Helm	100	1		1		1				100	310	red-dmg		2	3	red-mag		1	2						armo												0	0
+Mod Cloth Armor	100	1		1		1				100	311	red-dmg		1	1										armo												0	0
+Mod Light Armor	100	1		1		1				100	312	red-dmg		1	2	red-mag		1	1						armo												0	0
+Mod Medium Armor	100	1		1		1				100	313	red-dmg		2	4	red-mag		1	2						armo												0	0
+Mod Heavy Armor	100	1		1		1				100	314	red-dmg		3	6	red-mag		1	3						armo												0	0
+Mod Cloth Glv Bts Blt	100	1		1		1				100	315														armo												0	0
+Mod Light Glv Bts Blt	100	1		1		1				100	316														armo												0	0
+Mod Medium Glv Bts Blt	100	1		1		1				100	317	red-dmg		1	1	red-mag		1	1						armo												0	0
+Mod Heavy Glv Bts Blt	100	1		1		1				100	318	red-dmg		1	2	red-mag		1	1						armo												0	0
+Mod Cloth Helm (Ubr)	100	1		1		1				100	319	red-dmg		1	1	red-mag		1	2						armo												0	0
+Mod Light Helm (Ubr)	100	1		1		1				100	320	red-dmg		1	2	red-mag		1	2						armo												0	0
+Mod Medium Helm (Ubr)	100	1		1		1				100	321	red-dmg		2	4	red-mag		1	3						armo												0	0
+Mod Heavy Helm (Ubr)	100	1		1		1				100	322	red-dmg		3	6	red-mag		1	4						armo												0	0
+Mod Cloth Armor (Ubr)	100	1		1		1				100	323	red-dmg		1	2	red-mag		1	1						armo												0	0
+Mod Light Armor (Ubr)	100	1		1		1				100	324	red-dmg		2	4	red-mag		1	2						armo												0	0
+Mod Medium Armor (Ubr)	100	1		1		1				100	325	red-dmg		3	6	red-mag		1	3						armo												0	0
+Mod Heavy Armor (Ubr)	100	1		1		1				100	326	red-dmg		4	8	red-mag		1	4						armo												0	0
+Mod Cloth Glv Bts Blt (Ubr)	100	1		1		1				100	327	red-dmg		1	1										armo												0	0
+Mod Light Glv Bts Blt (Ubr)	100	1		1		1				100	328	red-dmg		1	1	red-mag		1	1						armo												0	0
+Mod Medium Glv Bts Blt (Ubr)	100	1		1		1				100	329	red-dmg		1	2	red-mag		1	2						armo												0	0
+Mod Heavy Glv Bts Blt (Ubr)	100	1		1		1				100	330	red-dmg		2	4	red-mag		1	3						armo												0	0
+Mod Cloth Helm (Ult)	100	1		1		1				100	331	red-dmg		1	2	red-mag		1	3						armo												0	0
+Mod Light Helm (Ult)	100	1		1		1				100	332	red-dmg		2	4	red-mag		1	4						armo												0	0
+Mod Medium Helm (Ult)	100	1		1		1				100	333	red-dmg		3	6	red-mag		1	5						armo												0	0
+Mod Heavy Helm (Ult)	100	1		1		1				100	334	red-dmg		4	8	red-mag		1	6						armo												0	0
+Mod Cloth Armor (Ult)	100	1		1		1				100	335	red-dmg		2	4	red-mag		1	2						armo												0	0
+Mod Light Armor (Ult)	100	1		1		1				100	336	red-dmg		3	6	red-mag		1	3						armo												0	0
+Mod Medium Armor (Ult)	100	1		1		1				100	337	red-dmg		4	8	red-mag		1	4						armo												0	0
+Mod Heavy Armor (Ult)	100	1		1		1				100	338	red-dmg		5	10	red-mag		1	5						armo												0	0
+Mod Cloth Glv Bts Blt (Ult)	100	1		1		1				100	339	red-dmg		1	1	red-mag		1	1						armo												0	0
+Mod Light Glv Bts Blt (Ult)	100	1		1		1				100	340	red-dmg		1	2	red-mag		1	2						armo												0	0
+Mod Medium Glv Bts Blt (Ult)	100	1		1		1				100	341	red-dmg		2	4	red-mag		1	3						armo												0	0
+Mod Heavy Glv Bts Blt (Ult)	100	1		1		1				100	342	red-dmg		3	6	red-mag		1	4						armo												0	0
