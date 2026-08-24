@@ -233,10 +233,10 @@ missilelimit	230																																																																
 torch	232																																																																									0
 potion_resistfire	233					1									1																												aura_resistfire					cast_resistfire														paladin_aura_resistfire												0
 potion_resistlight	234					1										1																											aura_resistlight					cast_resistlight														paladin_aura_resistlightning												0
-herb_armor	235													1																																				armorclass																								0
-herb_tohit	236											1																																						tohit																								0
-herb_damage	237												1																																					damagepercent																								0
-herb_speed	238																																																	velocitypercent																								0
+herb_armor	235													1																																																												0
+herb_tohit	236											1																																																														0
+herb_resall	237														1	1	1		1																																																							0
+herb_speed	238																																																																									0
 skill_passive_1	239																																																																									0
 skill_passive_2	240																																																																									0
 skill_passive_3	241																																																																									0
