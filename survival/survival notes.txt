@@ -32,6 +32,7 @@ Stamina Deplete Aura:
 -min(stat('stamina'.accr),100)
 
 
+
 ===========
 CHANGE LIST
 ===========
@@ -90,8 +91,6 @@ skills.txt
 ==========
 - Edited skill calculations to modify effects based on current % stamina
   - Bash
-- NEW
-  - Mod Passive: Placeholder passive skill for testing
 
 ==========
 states.txt

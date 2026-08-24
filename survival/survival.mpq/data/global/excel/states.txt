@@ -230,12 +230,40 @@ bind_demon_underling	227																												1	1				1																	19	
 herald	228																																										herald																															0
 apocalypse	229																																																																									0
 missilelimit	230																																																																									0
-mod_passive	231																																																																									0
-mod_stamina_drain	232																																										staminafront	staminaback						stamina												paladin_aura_stamina												0
-torch	233																																																																									0
-potion_resistfire	234					1									1																												aura_resistfire					cast_resistfire														paladin_aura_resistfire												0
-potion_resistlight	235					1										1																											aura_resistlight					cast_resistlight														paladin_aura_resistlightning												0
-herb_armor	236													1																																				armorclass																								0
-herb_tohit	237											1																																						tohit																								0
-herb_damage	238												1																																					damagepercent																								0
-herb_speed	239																																																	velocitypercent																								0
+torch	232																																																																									0
+potion_resistfire	233					1									1																												aura_resistfire					cast_resistfire														paladin_aura_resistfire												0
+potion_resistlight	234					1										1																											aura_resistlight					cast_resistlight														paladin_aura_resistlightning												0
+herb_armor	235													1																																				armorclass																								0
+herb_tohit	236											1																																						tohit																								0
+herb_damage	237												1																																					damagepercent																								0
+herb_speed	238																																																	velocitypercent																								0
+skill_passive_1	239																																																																									0
+skill_passive_2	240																																																																									0
+skill_passive_3	241																																																																									0
+skill_passive_4	242																																																																									0
+skill_passive_5	243																																																																									0
+skill_passive_6	244																																																																									0
+skill_passive_7	245																																																																									0
+skill_passive_8	246																																																																									0
+skill_passive_9	247																																																																									0
+skill_passive_10	248																																																																									0
+skill_passive_11	249																																																																									0
+skill_passive_12	250																																																																									0
+skill_passive_13	251																																																																									0
+skill_passive_14	252																																																																									0
+skill_passive_15	253																																																																									0
+skill_passive_16	254																																																																									0
+skill_passive_17	255																																																																									0
+skill_passive_18	256																																																																									0
+skill_passive_19	257																																																																									0
+skill_passive_20	258																																																																									0
+skill_passive_21	259																																																																									0
+skill_passive_22	260																																																																									0
+skill_passive_23	261																																																																									0
+skill_passive_24	262																																																																									0
+skill_passive_25	263																																																																									0
+skill_passive_26	264																																																																									0
+skill_passive_27	265																																																																									0
+skill_passive_28	266																																																																									0
+skill_passive_29	267																																																																									0
+skill_passive_30	268																																																																									0
