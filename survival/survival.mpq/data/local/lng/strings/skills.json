@@ -39591,5 +39591,22 @@
     "ptBR": "passivo\n",
     "ruRU": "Пассивное умение\n",
     "zhCN": "被动\n"
+  },
+  {
+    "id": 30002,
+    "Key": "StrBreakPassFrenzy",
+    "enUS": "Breakthrough Passive: Increased Attack Speed",
+    "zhTW": "被動: 攻擊速度",
+    "deDE": "Passiv: Angriffsgeschwindigkeit",
+    "esES": "Pasiva: Velocidad de ataque",
+    "frFR": "passif: Vitesse d’attaque",
+    "itIT": "Passiva: Velocità d'attacco",
+    "koKR": "지속 효과: 공격 속도",
+    "plPL": "Działanie pasywne: Szybkość ataku",
+    "esMX": "Pasiva: Velocidad de ataque",
+    "jaJP": "常時発動: 攻撃速度",
+    "ptBR": "passivo: Velocidade de ataque",
+    "ruRU": "Пассивное умение: Скорость атаки",
+    "zhCN": "被动: 攻击速度"
   }
 ]
