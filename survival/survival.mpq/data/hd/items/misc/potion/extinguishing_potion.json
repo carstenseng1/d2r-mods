@@ -5,7 +5,7 @@
     "skeletons": [ { "path": "data/hd/items/dropped_items/skeleton/dropped_items.skeleton" } ],
     "animations": [],
     "textures": [
-      { "path": "data/hd/items/misc/potion/extinguishing_potion/misc_stamina_potion_ALB.texture" },
+      { "path": "data/hd/items/misc/potion/extinguishing_potion/misc_extinguishing_potion_ALB.texture" },
       { "path": "data/hd/items/misc/potion/stamina_potion/misc_stamina_potion_NRM.texture" },
       { "path": "data/hd/items/misc/potion/stamina_potion/misc_stamina_potion_ORM.texture" }
     ],
