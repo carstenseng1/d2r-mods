@@ -39594,23 +39594,6 @@
   },
   {
     "id": 30002,
-    "Key": "StrBreakPassFrenzy",
-    "enUS": "Breakthrough Passive: Increased Attack Speed",
-    "zhTW": "被動: 攻擊速度",
-    "deDE": "Passiv: Angriffsgeschwindigkeit",
-    "esES": "Pasiva: Velocidad de ataque",
-    "frFR": "passif: Vitesse d’attaque",
-    "itIT": "Passiva: Velocità d'attacco",
-    "koKR": "지속 효과: 공격 속도",
-    "plPL": "Działanie pasywne: Szybkość ataku",
-    "esMX": "Pasiva: Velocidad de ataque",
-    "jaJP": "常時発動: 攻撃速度",
-    "ptBR": "passivo: Velocidade de ataque",
-    "ruRU": "Пассивное умение: Скорость атаки",
-    "zhCN": "被动: 攻击速度"
-  },
-  {
-    "id": 30003,
     "Key": "StrBreakPassThrowDamagePercent",
     "enUS": "Throw Damage: %+d%%",
     "zhTW": "投擲 傷害：%+d%%",
@@ -39627,7 +39610,7 @@
     "zhCN": "投掷 伤害: %+d%%"
   },
   {
-    "id": 30004,
+    "id": 30003,
     "Key": "StrBreakPassThrowToHit",
     "enUS": "Throw Attack Rating: %+d%%",
     "zhTW": "投擲 準確率：%+d%%",
@@ -39644,7 +39627,7 @@
     "zhCN": "投掷 命中值: %+d%%"
   },
   {
-    "id": 30005,
+    "id": 30004,
     "Key": "StrBreakPassSpearDamagePercent",
     "enUS": "Spear Damage: %+d%%",
     "zhTW": "長矛 傷害：%+d%%",
@@ -39661,7 +39644,7 @@
     "zhCN": "矛 伤害: %+d%%"
   },
   {
-    "id": 30006,
+    "id": 30005,
     "Key": "StrBreakPassSpearToHit",
     "enUS": "Spear Attack Rating: %+d%%",
     "zhTW": "長矛 準確率：%+d%%",
@@ -39676,5 +39659,22 @@
     "ptBR": "Lança Taxa de ataque: %+d%%",
     "ruRU": "копье Рейтинг атаки: %+d%%",
     "zhCN": "矛 命中值: %+d%%"
+  },
+  {
+    "id": 30006,
+    "Key": "StrBreakPassElementalDamage",
+    "enUS": "Elemental Damages: %d-%d",
+    "zhTW": "元素傷害： %d-%d",
+    "deDE": "Elementarschäden: %d-%d",
+    "esES": "Daños elementales: %d-%d",
+    "frFR": "Dégâts élémentaires : %d-%d",
+    "itIT": "Danni elementali: %d-%d",
+    "koKR": "원소 피해: %d-%d",
+    "plPL": "Obrażenia od żywiołów: %d-%d",
+    "esMX": "Daño elemental: %d-%d",
+    "jaJP": "属性ダメージ: %d-%d",
+    "ptBR": "Danos elementais: %d-%d",
+    "ruRU": "Урон от стихий: %d-%d",
+    "zhCN": "元素伤害:%d-%d"
   }
 ]
