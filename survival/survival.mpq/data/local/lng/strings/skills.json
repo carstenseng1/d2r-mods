@@ -39676,5 +39676,56 @@
     "ptBR": "Danos elementais: %d-%d",
     "ruRU": "Урон от стихий: %d-%d",
     "zhCN": "元素伤害:%d-%d"
+  },
+  {
+    "id": 30007,
+    "Key": "StrBreakPassXplPotDamage",
+    "enUS": "Exploding Potion Damage: +%d%%",
+    "zhTW": "爆炸藥水傷害：+%d%%",
+    "deDE": "Explosivelixier Schaden: +%d%%",
+    "esES": "Poción explosiva daño: +%d%%",
+    "frFR": "Potion explosive dégâts : +%d%%",
+    "itIT": "Pozione Esplosiva Danni: +%d%%",
+    "koKR": "폭발 물약 공격력: +%d%%",
+    "plPL": "Eksplodująca mikstura obrażenia: +%d%%",
+    "esMX": "Poción explosiva daño: +%d%%",
+    "jaJP": "炸裂ポーション・ダメージ: +%d%%",
+    "ptBR": "Poção Explosiva Dano: +%d%%",
+    "ruRU": "Взрывчатое зелье yрон: +%d%%",
+    "zhCN": "爆炸药水伤害: +%d%%"
+  },
+  {
+    "id": 30008,
+    "Key": "StrBreakPassGasPotDamage",
+    "enUS": "Gas Potion Damage: +%d%%",
+    "zhTW": "毒氣藥水傷害：+%d%%",
+    "deDE": "Gaselixier Schaden: +%d%%",
+    "esES": "Poción de gas Daño: +%d%%",
+    "frFR": "Cartouche de gaz Dégâts : +%d%%",
+    "itIT": "Pozione di Gas Danni: +%d%%",
+    "koKR": "가스 물약 공격력: +%d%%",
+    "plPL": "Mikstura gazu Obrażenia: +%d%%",
+    "esMX": "Poción de gas Daño: +%d%%",
+    "jaJP": "ガス・ポーション・ダメージ: +%d%%",
+    "ptBR": "Poção de Gás Dano: +%d%%",
+    "ruRU": "газ Урон: +%d%%",
+    "zhCN": "毒气药水伤害: +%d%%"
   }
+  //{
+  //  "id": 27956,
+  //  "Key": "StrSkillDamagePercentage",
+  //  "enUS": "Damage: +%d%%",
+  //  "zhTW": "傷害：+%d%%",
+  //  "deDE": "Schaden: +%d%%",
+  //  "esES": "Daño: +%d%%",
+  //  "frFR": "Dégâts : +%d%%",
+  //  "itIT": "Danni: +%d%%",
+  //  "koKR": "공격력: +%d%%",
+  //  "plPL": "Obrażenia: +%d%%",
+  //  "esMX": "Daño: +%d%%",
+  //  "jaJP": "ダメージ: +%d%%",
+  //  "ptBR": "Dano: +%d%%",
+  //  "ruRU": "Урон: +%d%%",
+  //  "zhCN": "伤害: +%d%%"
+  //}
 ]
