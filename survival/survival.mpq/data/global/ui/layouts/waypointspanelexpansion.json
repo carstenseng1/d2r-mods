@@ -1,31 +1,29 @@
 {
-    "basedOn": "WaypointsPanelOriginalHD.json",
+    "basedOn": "WaypointsPanelOriginal.json",
     "type": "WaypointsPanel", "name": "WaypointsPanelExpansion",
     "children": [
         {
             "type": "ClickCatcherWidget", "name": "ClickCatcher",
         },
         {
-            "type": "ImageWidget", "name": "Background",
+            "type": "GridImageWidget", "name": "Background",
         },
         {
-            "type": "ImageWidget", "name": "LeftHinge",
-        },
-        {
-            "type": "TextBoxWidget", "name": "WaypointsTitle",
+            "type": "TextBoxWidget", "name": "waypointsTitle",
         },
         {
             "type": "TabBarWidget", "name": "Tabs",
             "fields": {
                 "tabCount": 0,//5,
-                //"filename": "PANEL\\Waypoints\\Waypoints_Tab",
-                "inactiveFrames": [],//[ 1, 1, 1, 1, 1 ],
-                "activeFrames": [],//[ 0, 0, 0, 0, 0 ],
-                "tabSize": { "x": 0, "y": 0 },//{ "x": 174, "y": 70 },
-                "tabPadding": { "x": 0, "y": 0 }//{ "x": -1, "y": 0 }
+                //"filename": "\\menu\\expwaygatetabs",
+                "inactiveFrames": [],//[ 1, 3, 5, 7, 9 ],
+                "activeFrames": [],//[ 0, 2, 4, 6, 8 ],
+                "tabSize": { "x": 62, "y": 24 }//{ "x": 62, "y": 24 }
             }
         },
-        // waypoint button templates
+        {
+            "type": "ButtonWidget", "name": "CancelButton",
+        },
         {
             "type": "Widget", "name": "Templates",
             "children": [
@@ -44,9 +42,6 @@
                     "type": "ImageWidget", "name": "CurrentButton",
                 }
             ]
-        },
-        {
-            "type": "ButtonWidget", "name": "CloseButton",
-        },
+        }
     ]
 }

@@ -43,7 +43,7 @@
         {
             "type": "TabBarWidget", "name": "Tabs",
             "fields": {
-                "rect": { "x": 148, "y": 201 },
+                "rect": { "x": 0, "y": 0 },//{ "x": 148, "y": 201 },
                 "tabCount": 0,//4,
                 //"filename": "PANEL\\Waypoints\\Waypoints_Tab_Original",
                 "inactiveFrames": [],//[ 1, 1, 1, 1 ],
@@ -52,9 +52,9 @@
                 "textStyle": { "pointSize": "$MediumLargeFontSize" },
                 "activeTextColor": "$TabsActiveTextColor",
                 "inactiveTextColor": "$TabsInactiveTextColor",
-                "tabSize": { "x": 215, "y": 70 },
+                "tabSize": { "x": 0, "y": 0 },//{ "x": 215, "y": 70 },
                 "tabPadding": { "x": 0, "y": 0 },
-                "onSwitchTabMessage": "Waypoints:SelectTab",
+                "onSwitchTabMessage": "Waypoints:SelectTab"
             }
         },
         // waypoint button templates
