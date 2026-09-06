@@ -231,8 +231,8 @@ herald	228																																										herald																						
 apocalypse	229																																																																									0
 missilelimit	230																																																																									0
 torch	232																																																																									0
-potion_resistfire	233					1									1																												aura_resistfire					cast_resistfire														paladin_aura_resistfire												0
-potion_resistlight	234					1										1																											aura_resistlight					cast_resistlight														paladin_aura_resistlightning												0
+potion_resistfire	233														1																												aura_resistfire					cast_resistfire														paladin_aura_resistfire												0
+potion_resistlight	234															1																											aura_resistlight					cast_resistlight														paladin_aura_resistlightning												0
 herb_armor	235													1																																																												0
 herb_tohit	236											1																																																														0
 herb_resall	237														1	1	1		1																																																							0
@@ -267,3 +267,4 @@ skill_passive_27	265																																																												
 skill_passive_28	266																																																																									0
 skill_passive_29	267																																																																									0
 skill_passive_30	268																																																																									0
+skill_stamina_cost	269																																																																									0
