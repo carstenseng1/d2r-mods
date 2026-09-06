@@ -39710,6 +39710,23 @@
     "ptBR": "Poção de Gás Dano: +%d%%",
     "ruRU": "газ Урон: +%d%%",
     "zhCN": "毒气药水伤害: +%d%%"
+  },
+  {
+    "id": 30009,
+    "Key": "StrBreakPassFasterHitRecovery",
+    "enUS": "+%d%% Faster Hit Recovery",
+    "zhTW": "+%d%% 更快的受击恢复",
+    "deDE": "+%d%% Schnellere Erholung nach Treffern",
+    "esES": "+%d%% Recuperación de impacto más rápida",
+    "frFR": "+%d%% Récupération après coup plus rapide",
+    "itIT": "+%d%% Recupero più rapido dai colpi",
+    "koKR": "+%d%% 타격 회복 속도 증가",
+    "plPL": "+%d%% Szybsza regeneracja po trafieniu",
+    "esMX": "+%d%% Recuperación de impacto más rápida",
+    "jaJP": "+%d%% ヒットリカバリー速度上昇",
+    "ptBR": "+%d%% Recuperação de Acerto Mais Rápida",
+    "ruRU": "+%d%% Ускоренное восстановление после удара",
+    "zhCN": "+%d%% 更快的受擊恢復"
   }
   //{
   //  "id": 27956,
