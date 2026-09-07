@@ -39727,22 +39727,56 @@
     "ptBR": "+%d%% Recuperação de Acerto Mais Rápida",
     "ruRU": "+%d%% Ускоренное восстановление после удара",
     "zhCN": "+%d%% 更快的受擊恢復"
+  },
+  {
+    "id": 30010,
+    "Key": "skillname429",
+    "enUS": "Defend",
+    "zhTW": "保衛",
+    "deDE": "Verteidigen",
+    "esES": "Defender",
+    "frFR": "Défendre",
+    "itIT": "Difendere",
+    "koKR": "지키다",
+    "plPL": "Bronić",
+    "esMX": "Defender",
+    "jaJP": "守る",
+    "ptBR": "Defender",
+    "ruRU": "Защищать",
+    "zhCN": "保卫"
+  },
+  {
+    "id": 30011,
+    "Key": "skillld429",
+    "enUS": "Defend against physical attacks",
+    "zhTW": "防禦人身攻擊",
+    "deDE": "Sich gegen körperliche Angriffe verteidigen",
+    "esES": "Defiéndete de los ataques físicos.",
+    "frFR": "Se défendre contre les attaques physiques",
+    "itIT": "Difendersi dagli attacchi fisici",
+    "koKR": "신체적 공격으로부터 자신을 방어하세요",
+    "plPL": "Obrona przed atakami fizycznymi",
+    "esMX": "Defiéndete de los ataques físicos.",
+    "jaJP": "物理的な攻撃から身を守る",
+    "ptBR": "Defender-se de ataques físicos",
+    "ruRU": "Защита от физических нападений",
+    "zhCN": "防御人身攻击"
   }
-  //{
-  //  "id": 27956,
-  //  "Key": "StrSkillDamagePercentage",
-  //  "enUS": "Damage: +%d%%",
-  //  "zhTW": "傷害：+%d%%",
-  //  "deDE": "Schaden: +%d%%",
-  //  "esES": "Daño: +%d%%",
-  //  "frFR": "Dégâts : +%d%%",
-  //  "itIT": "Danni: +%d%%",
-  //  "koKR": "공격력: +%d%%",
-  //  "plPL": "Obrażenia: +%d%%",
-  //  "esMX": "Daño: +%d%%",
-  //  "jaJP": "ダメージ: +%d%%",
-  //  "ptBR": "Dano: +%d%%",
-  //  "ruRU": "Урон: +%d%%",
-  //  "zhCN": "伤害: +%d%%"
-  //}
+    //{
+    //  "id": 27956,
+    //  "Key": "StrSkillDamagePercentage",
+    //  "enUS": "Damage: +%d%%",
+    //  "zhTW": "傷害：+%d%%",
+    //  "deDE": "Schaden: +%d%%",
+    //  "esES": "Daño: +%d%%",
+    //  "frFR": "Dégâts : +%d%%",
+    //  "itIT": "Danni: +%d%%",
+    //  "koKR": "공격력: +%d%%",
+    //  "plPL": "Obrażenia: +%d%%",
+    //  "esMX": "Daño: +%d%%",
+    //  "jaJP": "ダメージ: +%d%%",
+    //  "ptBR": "Dano: +%d%%",
+    //  "ruRU": "Урон: +%d%%",
+    //  "zhCN": "伤害: +%d%%"
+    //}
 ]

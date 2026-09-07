@@ -267,4 +267,5 @@ skill_passive_27	265																																																												
 skill_passive_28	266																																																																									0
 skill_passive_29	267																																																																									0
 skill_passive_30	268																																																																									0
-skill_stamina_cost	269																																																																									0
+skill_kick	269																																																																									0
+skill_defend	270													1																																				skill_armor_percent																								0
