@@ -39576,6 +39576,23 @@
     "zhCN": "最大锁链数: %d"
   },
   {
+    "id": 30000,
+    "Key": "skillpoints",
+    "enUS": "Skill Points: %d",
+    "zhTW": "技能點數：%d",
+    "deDE": "Fertigkeiten zurücksetzen：%d",
+    "esES": "Habilidades：%d",
+    "frFR": "Comp：%d",
+    "itIT": "Abilità：%d",
+    "koKR": "기술 포인트 초기화：%d",
+    "plPL": "Umiejętności：%d",
+    "esMX": "Habilidad：%d",
+    "jaJP": "ポイントをリセット：%d",
+    "ptBR": "Atributos：%d",
+    "ruRU": "Xарактеристик：%d",
+    "zhCN": "技能点数：%d"
+  },
+  {
     "id": 30001,
     "Key": "StrBreakPass",
     "enUS": "Breakthrough Passive\n",
@@ -39594,74 +39611,6 @@
   },
   {
     "id": 30002,
-    "Key": "StrBreakPassThrowDamagePercent",
-    "enUS": "Throw Damage: %+d%%",
-    "zhTW": "投擲 傷害：%+d%%",
-    "deDE": "Werfen Schaden: %+d%%",
-    "esES": "Lanzamiento Daño: %+d%%",
-    "frFR": "Lancer Dégâts : %+d%%",
-    "itIT": "Lancio Danni: %+d%%",
-    "koKR": "투척 공격력: %+d%%",
-    "plPL": "Rzut Obrażenia: %+d%%",
-    "esMX": "Arrojar Daño: %+d%%",
-    "jaJP": "投げる ダメージ: %+d%%",
-    "ptBR": "Arremesso Dano: %+d%%",
-    "ruRU": "Бросок Урон: %+d%%",
-    "zhCN": "投掷 伤害: %+d%%"
-  },
-  {
-    "id": 30003,
-    "Key": "StrBreakPassThrowToHit",
-    "enUS": "Throw Attack Rating: %+d%%",
-    "zhTW": "投擲 準確率：%+d%%",
-    "deDE": "Werfen Angriffswert: %+d%%",
-    "esES": "Lanzamiento Índice de ataque: %+d%%",
-    "frFR": "Lancer Score d’attaque : %+d%%",
-    "itIT": "Lancio Indice d'attacco: %+d%%",
-    "koKR": "투척 명중률: %+d%%",
-    "plPL": "Rzut Skuteczność ataku: %+d%%",
-    "esMX": "Arrojar Índice de ataque: %+d%%",
-    "jaJP": "投げる 命中率: %+d%%",
-    "ptBR": "Arremesso Taxa de ataque: %+d%%",
-    "ruRU": "Бросок Рейтинг атаки: %+d%%",
-    "zhCN": "投掷 命中值: %+d%%"
-  },
-  {
-    "id": 30004,
-    "Key": "StrBreakPassSpearDamagePercent",
-    "enUS": "Spear Damage: %+d%%",
-    "zhTW": "長矛 傷害：%+d%%",
-    "deDE": "Speer Schaden: %+d%%",
-    "esES": "Lanza Daño: %+d%%",
-    "frFR": "Lance Dégâts : %+d%%",
-    "itIT": "Lancia Danni: %+d%%",
-    "koKR": "스피어 공격력: %+d%%",
-    "plPL": "Włócznia Obrażenia: %+d%%",
-    "esMX": "Lanza Daño: %+d%%",
-    "jaJP": "投げる ダメージ: %+d%%",
-    "ptBR": "Lança Dano: %+d%%",
-    "ruRU": "копье Урон: %+d%%",
-    "zhCN": "矛 伤害: %+d%%"
-  },
-  {
-    "id": 30005,
-    "Key": "StrBreakPassSpearToHit",
-    "enUS": "Spear Attack Rating: %+d%%",
-    "zhTW": "長矛 準確率：%+d%%",
-    "deDE": "Speer Angriffswert: %+d%%",
-    "esES": "Lanza Índice de ataque: %+d%%",
-    "frFR": "Lance Score d’attaque : %+d%%",
-    "itIT": "Lancia Indice d'attacco: %+d%%",
-    "koKR": "스피어 명중률: %+d%%",
-    "plPL": "Włócznia Skuteczność ataku: %+d%%",
-    "esMX": "Lanza Índice de ataque: %+d%%",
-    "jaJP": "投げる 命中率: %+d%%",
-    "ptBR": "Lança Taxa de ataque: %+d%%",
-    "ruRU": "копье Рейтинг атаки: %+d%%",
-    "zhCN": "矛 命中值: %+d%%"
-  },
-  {
-    "id": 30006,
     "Key": "StrBreakPassElementalDamage",
     "enUS": "Elemental Damages: %d-%d",
     "zhTW": "元素傷害： %d-%d",
@@ -39678,7 +39627,7 @@
     "zhCN": "元素伤害:%d-%d"
   },
   {
-    "id": 30007,
+    "id": 30003,
     "Key": "StrBreakPassXplPotDamage",
     "enUS": "Exploding Potion Damage: +%d%%",
     "zhTW": "爆炸藥水傷害：+%d%%",
@@ -39695,7 +39644,7 @@
     "zhCN": "爆炸药水伤害: +%d%%"
   },
   {
-    "id": 30008,
+    "id": 30004,
     "Key": "StrBreakPassGasPotDamage",
     "enUS": "Gas Potion Damage: +%d%%",
     "zhTW": "毒氣藥水傷害：+%d%%",
@@ -39712,7 +39661,7 @@
     "zhCN": "毒气药水伤害: +%d%%"
   },
   {
-    "id": 30009,
+    "id": 30005,
     "Key": "StrBreakPassFasterHitRecovery",
     "enUS": "+%d%% Faster Hit Recovery",
     "zhTW": "+%d%% 更快的受击恢复",
@@ -39729,7 +39678,7 @@
     "zhCN": "+%d%% 更快的受擊恢復"
   },
   {
-    "id": 30010,
+    "id": 30006,
     "Key": "skillname429",
     "enUS": "Defend",
     "zhTW": "保衛",
@@ -39746,7 +39695,7 @@
     "zhCN": "保卫"
   },
   {
-    "id": 30011,
+    "id": 30007,
     "Key": "skillld429",
     "enUS": "Defend against physical attacks",
     "zhTW": "防禦人身攻擊",
@@ -39762,21 +39711,21 @@
     "ruRU": "Защита от физических нападений",
     "zhCN": "防御人身攻击"
   }
-    //{
-    //  "id": 27956,
-    //  "Key": "StrSkillDamagePercentage",
-    //  "enUS": "Damage: +%d%%",
-    //  "zhTW": "傷害：+%d%%",
-    //  "deDE": "Schaden: +%d%%",
-    //  "esES": "Daño: +%d%%",
-    //  "frFR": "Dégâts : +%d%%",
-    //  "itIT": "Danni: +%d%%",
-    //  "koKR": "공격력: +%d%%",
-    //  "plPL": "Obrażenia: +%d%%",
-    //  "esMX": "Daño: +%d%%",
-    //  "jaJP": "ダメージ: +%d%%",
-    //  "ptBR": "Dano: +%d%%",
-    //  "ruRU": "Урон: +%d%%",
-    //  "zhCN": "伤害: +%d%%"
-    //}
+  //{
+  //  "id": 27956,
+  //  "Key": "StrSkillDamagePercentage",
+  //  "enUS": "Damage: +%d%%",
+  //  "zhTW": "傷害：+%d%%",
+  //  "deDE": "Schaden: +%d%%",
+  //  "esES": "Daño: +%d%%",
+  //  "frFR": "Dégâts : +%d%%",
+  //  "itIT": "Danni: +%d%%",
+  //  "koKR": "공격력: +%d%%",
+  //  "plPL": "Obrażenia: +%d%%",
+  //  "esMX": "Daño: +%d%%",
+  //  "jaJP": "ダメージ: +%d%%",
+  //  "ptBR": "Dano: +%d%%",
+  //  "ruRU": "Урон: +%d%%",
+  //  "zhCN": "伤害: +%d%%"
+  //}
 ]
