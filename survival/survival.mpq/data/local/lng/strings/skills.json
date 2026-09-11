@@ -39577,7 +39577,7 @@
   },
   {
     "id": 30000,
-    "Key": "skillpoints",
+    "Key": "StrSkillPoints",
     "enUS": "Skill Points: %d",
     "zhTW": "技能點數：%d",
     "deDE": "Fertigkeiten zurücksetzen：%d",
@@ -39594,6 +39594,23 @@
   },
   {
     "id": 30001,
+    "Key": "StrSkillStaminaCost",
+    "enUS": "Stamina Cost: %d",
+    "zhTW": "體力消耗：%d",
+    "deDE": "Ausdauerkosten: %d",
+    "esES": "Coste de resistencia: %d",
+    "frFR": "Coût en endurance : %d",
+    "itIT": "Costo in resistenza: %d",
+    "koKR": "체력 소모량: %d",
+    "plPL": "Koszt wytrzymałości: %d",
+    "esMX": "Coste de resistencia: %d",
+    "jaJP": "スタミナ消費量：%d",
+    "ptBR": "Custo de resistência: %d",
+    "ruRU": "Затраты выносливости: %d",
+    "zhCN": "体力消耗：%d"
+  },
+  {
+    "id": 30002,
     "Key": "StrBreakPass",
     "enUS": "Breakthrough Passive\n",
     "zhTW": "被動\n",
@@ -39610,7 +39627,7 @@
     "zhCN": "被动\n"
   },
   {
-    "id": 30002,
+    "id": 30003,
     "Key": "StrBreakPassElementalDamage",
     "enUS": "Elemental Damages: %d-%d",
     "zhTW": "元素傷害： %d-%d",
@@ -39627,7 +39644,7 @@
     "zhCN": "元素伤害:%d-%d"
   },
   {
-    "id": 30003,
+    "id": 30004,
     "Key": "StrBreakPassXplPotDamage",
     "enUS": "Exploding Potion Damage: +%d%%",
     "zhTW": "爆炸藥水傷害：+%d%%",
@@ -39644,7 +39661,7 @@
     "zhCN": "爆炸药水伤害: +%d%%"
   },
   {
-    "id": 30004,
+    "id": 30005,
     "Key": "StrBreakPassGasPotDamage",
     "enUS": "Gas Potion Damage: +%d%%",
     "zhTW": "毒氣藥水傷害：+%d%%",
@@ -39661,7 +39678,7 @@
     "zhCN": "毒气药水伤害: +%d%%"
   },
   {
-    "id": 30005,
+    "id": 30006,
     "Key": "StrBreakPassFasterHitRecovery",
     "enUS": "+%d%% Faster Hit Recovery",
     "zhTW": "+%d%% 更快的受击恢复",
@@ -39678,7 +39695,7 @@
     "zhCN": "+%d%% 更快的受擊恢復"
   },
   {
-    "id": 30006,
+    "id": 30007,
     "Key": "skillname429",
     "enUS": "Defend",
     "zhTW": "保衛",
@@ -39695,7 +39712,7 @@
     "zhCN": "保卫"
   },
   {
-    "id": 30007,
+    "id": 30008,
     "Key": "skillld429",
     "enUS": "Defend against physical attacks",
     "zhTW": "防禦人身攻擊",
@@ -39710,6 +39727,40 @@
     "ptBR": "Defender-se de ataques físicos",
     "ruRU": "Защита от физических нападений",
     "zhCN": "防御人身攻击"
+  },
+  {
+    "id": 30009,
+    "Key": "skillname430",
+    "enUS": "Sister's Defence",
+    "zhTW": "姐妹的辯護",
+    "deDE": "Schwesterverteidigung",
+    "esES": "La defensa de la hermana",
+    "frFR": "Défense de la sœur",
+    "itIT": "Difesa della sorella",
+    "koKR": "여동생의 변호",
+    "plPL": "Obrona Siostry",
+    "esMX": "La defensa de la hermana",
+    "jaJP": "妹の弁護",
+    "ptBR": "Defesa da Irmã",
+    "ruRU": "Защита сестры",
+    "zhCN": "姐妹的辩护"
+  },
+  {
+    "id": 30010,
+    "Key": "skillld430",
+    "enUS": "Stun attackers",
+    "zhTW": "暈眩攻擊者",
+    "deDE": "Angreifer betäuben",
+    "esES": "Aturdir a los atacantes",
+    "frFR": "Étourdir les attaquants",
+    "itIT": "Aggressori stordenti",
+    "koKR": "기절 공격자",
+    "plPL": "Ogłusz atakujących",
+    "esMX": "Aturdir a los atacantes",
+    "jaJP": "攻撃者をスタンさせる",
+    "ptBR": "Atordoar os atacantes",
+    "ruRU": "Оглушить нападающих",
+    "zhCN": "眩晕攻击者"
   }
   //{
   //  "id": 27956,
