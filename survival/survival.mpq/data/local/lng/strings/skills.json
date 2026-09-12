@@ -39761,6 +39761,40 @@
     "ptBR": "Atordoar os atacantes",
     "ruRU": "Оглушить нападающих",
     "zhCN": "眩晕攻击者"
+  },
+  {
+    "id": 30011,
+    "Key": "skillname431",
+    "enUS": "Wolf Strike",
+    "zhTW": "狼群突襲",
+    "deDE": "Wolf Strike",
+    "esES": "Ataque de lobo",
+    "frFR": "Frappe du loup",
+    "itIT": "Colpo di lupo",
+    "koKR": "울프 스트라이크",
+    "plPL": "Uderzenie wilka",
+    "esMX": "Ataque de lobo",
+    "jaJP": "ウルフストライク",
+    "ptBR": "Ataque do Lobo",
+    "ruRU": "Волк-удар",
+    "zhCN": "狼群突袭"
+  },
+  {
+    "id": 30012,
+    "Key": "skillld431",
+    "enUS": "A powerful strike with elemental magic",
+    "zhTW": "一次威力強大的元素魔法攻擊",
+    "deDE": "Ein mächtiger Schlag mit Elementarmagie",
+    "esES": "Un poderoso ataque con magia elemental",
+    "frFR": "Une frappe puissante imprégnée de magie élémentaire",
+    "itIT": "Un potente colpo di magia elementale",
+    "koKR": "원소 마법을 사용한 강력한 공격",
+    "plPL": "Potężny cios z magią żywiołów",
+    "esMX": "Un poderoso ataque con magia elemental",
+    "jaJP": "元素魔法による強力な一撃",
+    "ptBR": "Um golpe poderoso com magia elemental",
+    "ruRU": "Мощный удар с использованием элементальной магии",
+    "zhCN": "一次威力强大的元素魔法攻击"
   }
   //{
   //  "id": 27956,
