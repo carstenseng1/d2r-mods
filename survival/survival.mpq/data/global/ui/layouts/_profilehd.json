@@ -330,7 +330,7 @@
         // This color is used for the show items selected label background
         "inGameShowItemsSelectedBackgroundColor": [ 0, 0.25, 0.5, 0.75 ],
         "substringColor": "$FontColorLightGray",
-        "healthColor": [ 0.31, 0, 0, 1.0 ],
+        "healthColor": [ 0.31, 0, 0, 0.5 ],
         "borderColor": "$TooltipBorderColor",
         "DefaultColor": "$FontColorWhite",
         "QuestColor": "$FontColorGoldYellow",
